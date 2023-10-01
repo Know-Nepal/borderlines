@@ -1,0 +1,23 @@
+{
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[json]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.formatOnSave": true,
+    "prettier.printWidth": 120,
+    "prettier.tabWidth": 2,
+    "prettier.useTabs": false,
+    "prettier.semi": true,
+    "prettier.singleQuote": false,
+    "prettier.quoteProps": "as-needed",
+    "prettier.jsxSingleQuote": false,
+    "prettier.trailingComma": "all",
+    "prettier.bracketSpacing": true,
+    "prettier.bracketSameLine": false,
+    "prettier.arrowParens": "always",
+    "prettier.insertPragma": false,
+    "prettier.requirePragma": false,
+    "prettier.proseWrap": "always",
+    "prettier.htmlWhitespaceSensitivity": "css"
+  }
+  
