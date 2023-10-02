@@ -1,6 +1,47 @@
 {
   "cities": [
     {
+      "name": "Birtamod",
+      "latitude": 26.6293,
+      "longitude": 87.9825,
+      "timezone": "Asia/Kathmandu",
+      "officialLanguage": "Nepali",
+      "currency": {
+        "name": "Nepalese Rupee",
+        "code": "NPR"
+      },
+      "landArea": {
+        "value": 78.24,
+        "unit": "km²"
+      },
+      "elevation": {
+        "value": 300,
+        "unit": "meters"
+      },
+      "landmarks": [
+        {
+          "name": "Heaven Water Park",
+          "latitude": 26.63947,
+          "longitude": 87.9306854
+        },
+        {
+          "name": "Bhatbhateni Birtamode",
+          "latitude": 26.6365878,
+          "longitude": 87.9709011
+        },
+        {
+          "name": "Birtamode City Center",
+          "latitude": 26.6346416,
+          "longitude": 87.9885769
+        },
+        {
+          "name": "Hanuman Central",
+          "latitude": 26.642373,
+          "longitude": 87.9916113
+        }
+      ]
+    },
+    {
       "name": "Damak",
       "latitude": 26.617,
       "longitude": 87.668,
@@ -15,7 +56,6 @@
         "unit": "km²"
       },
       "elevation": {
-        "value": 130,
         "unit": "meters"
       },
       "landmarks": [
