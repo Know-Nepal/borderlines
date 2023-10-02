@@ -42,6 +42,46 @@
       ]
     },
     {
+      "name": "Damak",
+      "latitude": 26.617,
+      "longitude": 87.668,
+      "timezone": "Asia/Kathmandu",
+      "officialLanguage": "Nepali",
+      "currency": {
+        "name": "Nepalese Rupee",
+        "code": "NPR"
+      },
+      "landArea": {
+        "value": 75.74,
+        "unit": "km²"
+      },
+      "elevation": {
+        "unit": "meters"
+      },
+      "landmarks": [
+        {
+          "name": "Damak View Tower",
+          "latitude": 26.6882791,
+          "longitude": 87.6603925
+        },
+        {
+          "name": "Indreni Lake",
+          "latitude": 26.6117643,
+          "longitude": 87.6547334
+        },
+        {
+          "name": "Damak Fun Park",
+          "latitude": 26.6539691,
+          "longitude": 87.603649
+        },
+        {
+          "name": "Himalaya Mahalaxmi Tea Garden",
+          "latitude": 26.6539691,
+          "longitude": 87.603649
+        }
+      ]
+    },
+    {
       "name": "Kathmandu",
       "latitude": 27.7172,
       "longitude": 85.324,
