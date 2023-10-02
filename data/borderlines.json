@@ -1,50 +1,91 @@
 {
   "cities": [
     {
-    "name": "Kathmandu",
-    "latitude": 27.7172,
-    "longitude": 85.3240,
-    "timezone": "Asia/Kathmandu",
-    "officialLanguage": "Nepali",
-    "currency": {
-      "name": "Nepalese Rupee",
-      "code": "NPR"
+      "name": "Damak",
+      "latitude": 26.617,
+      "longitude": 87.668,
+      "timezone": "Asia/Kathmandu",
+      "officialLanguage": "Nepali",
+      "currency": {
+        "name": "Nepalese Rupee",
+        "code": "NPR"
+      },
+      "landArea": {
+        "value": 75.74,
+        "unit": "km²"
+      },
+      "elevation": {
+        "value": 130,
+        "unit": "meters"
+      },
+      "landmarks": [
+        {
+          "name": "Damak View Tower",
+          "latitude": 26.6882791,
+          "longitude": 87.6603925
+        },
+        {
+          "name": "Indreni Lake",
+          "latitude": 26.6117643,
+          "longitude": 87.6547334
+        },
+        {
+          "name": "Damak Fun Park",
+          "latitude": 26.6539691,
+          "longitude": 87.603649
+        },
+        {
+          "name": "Himalaya Mahalaxmi Tea Garden",
+          "latitude": 26.6539691,
+          "longitude": 87.603649
+        }
+      ]
     },
-    "landArea": {
-      "value": 49.45,
-      "unit": "km²"
-    },
-    "elevation": {
-      "value": 1400,
-      "unit": "meters"
-    },
-    "landmarks": [
-      {
-        "name": "Swayambhunath (Monkey Temple)",
-        "latitude": 27.7149,
-        "longitude": 85.2904
+    {
+      "name": "Kathmandu",
+      "latitude": 27.7172,
+      "longitude": 85.324,
+      "timezone": "Asia/Kathmandu",
+      "officialLanguage": "Nepali",
+      "currency": {
+        "name": "Nepalese Rupee",
+        "code": "NPR"
       },
-      {
-        "name": "Pashupatinath Temple",
-        "latitude": 27.7105,
-        "longitude": 85.3488
+      "landArea": {
+        "value": 49.45,
+        "unit": "km²"
       },
-      {
-        "name": "Boudhanath Stupa",
-        "latitude": 27.7215,
-        "longitude": 85.3620
+      "elevation": {
+        "value": 1400,
+        "unit": "meters"
       },
-      {
-        "name": "Kathmandu Durbar Square",
-        "latitude": 27.7043,
-        "longitude": 85.3075
-      },
-      {
-        "name": "Narayanhiti Palace Museum",
-        "latitude": 27.7150,
-        "longitude": 85.3183
-      }
-    ]
-  }
+      "landmarks": [
+        {
+          "name": "Swayambhunath (Monkey Temple)",
+          "latitude": 27.7149,
+          "longitude": 85.2904
+        },
+        {
+          "name": "Pashupatinath Temple",
+          "latitude": 27.7105,
+          "longitude": 85.3488
+        },
+        {
+          "name": "Boudhanath Stupa",
+          "latitude": 27.7215,
+          "longitude": 85.362
+        },
+        {
+          "name": "Kathmandu Durbar Square",
+          "latitude": 27.7043,
+          "longitude": 85.3075
+        },
+        {
+          "name": "Narayanhiti Palace Museum",
+          "latitude": 27.715,
+          "longitude": 85.3183
+        }
+      ]
+    }
   ]
 }
