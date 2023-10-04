@@ -126,6 +126,37 @@
           "longitude": 85.3183
         }
       ]
+    },
+    {
+      "name": "Urlabari",
+      "latitude": 26.6649,
+      "longitude": 87.6137,
+      "timezone": "Asia/Kathmandu",
+      "officialLanguage": "Nepali",
+      "currency": {
+        "name": "Nepalese Rupee",
+        "code": "NPR"
+      },
+      "landArea": {
+        "value": 74.62,
+        "unit": "km²"
+      },
+      "elevation": {
+        "value": 116,
+        "unit": "meters"
+      },
+      "landmarks": [
+        {
+          "name": "Madan Bhandari Memorial Academy Nepal",
+          "latitude": 26.6619663,
+          "longitude": 87.5849092
+        },
+        {
+          "name": "Everest Fun Park & Resort Pvt. Ltd.",
+          "latitude": 26.6431722,
+          "longitude": 87.6181256
+        }
+      ]
     }
   ]
 }
