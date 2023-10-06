@@ -157,6 +157,63 @@
           "longitude": 87.6181256
         }
       ]
+    },
+    {
+      "name": "Butwal",
+      "latitude": 27.7000,
+      "longitude": 83.4486,
+      "timezone": "Asia/Kathmandu",
+      "officialLanguage": "Nepali",
+      "currency": {
+        "name": "Nepalese Rupee",
+        "code": "NPR"
+      },
+      "landArea": {
+        "value": 55.39,
+        "unit": "km²"
+      },
+      "elevation": {
+        "value": 116,
+        "unit": "meters"
+      },
+      "landmarks": [
+        {
+          "name": "Manimukunda Sen Park",
+          "latitude": 27.6998,
+          "longitude": 83.4484
+        },
+        {
+          "name": "Gautam Buddha Park",
+          "latitude": 27.6983,
+          "longitude": 83.4480
+        },
+        {
+          "name": "Siddha Baba Temple",
+          "latitude": 27.7020,
+          "longitude": 83.4375
+        },
+        {
+          "name": "Lumbini Crane Sanctuary",
+          "latitude": 27.6697,
+          "longitude": 83.4712
+        },
+        {
+          "name": "Devdaha Park",
+          "latitude": 27.5125,
+          "longitude": 83.9374
+        },
+        {
+          "name": "Devinagar Garden",
+          "latitude": 27.6962,
+          "longitude": 83.4388
+        },
+        {
+          "name": "Shankarnagar Park",
+          "latitude": 27.7012,
+          "longitude": 83.4425
+        }
+      ]
     }
+    
   ]
 }
