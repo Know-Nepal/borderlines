@@ -128,6 +128,47 @@
       ]
     },
     {
+      "name": "Syangja",
+      "latitude": 28.0197,
+      "longitude": 83.8049,
+      "timezone": "Asia/Kathmandu",
+      "officialLanguage": "Nepali",
+      "currency": {
+        "name": "Nepalese Rupee",
+        "code": "NPR"
+      },
+      "landArea": {
+        "value": 1164,
+        "unit": "km²"
+      },
+      "elevation": {
+        "value": 1012,
+        "unit": "meters"
+      },
+      "landmarks": [
+        {
+          "name": "Kaligandaki A Hydroelectric Power Station",
+          "latitude": 27.9791, 
+          "longitude": 83.5804
+        },
+        {
+          "name": "Sirubari Homestay",
+          "latitude": 28.1311,
+          "longitude": 83.7597
+        },
+        {
+          "name": "Sworek Maidan",
+          "latitude": 28.0248,
+          "longitude": 83.7354
+        },
+        {
+          "name": "Alamdevi Temple",
+          "latitude": 27.953728,
+          "longitude": 83.512351
+        }
+      ]
+    },
+    {
       "name": "Urlabari",
       "latitude": 26.6649,
       "longitude": 87.6137,
