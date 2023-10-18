@@ -56,6 +56,7 @@
         "unit": "km²"
       },
       "elevation": {
+        "value": 71,
         "unit": "meters"
       },
       "landmarks": [
