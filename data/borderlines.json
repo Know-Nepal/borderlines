@@ -42,6 +42,42 @@
       ]
     },
     {
+      "name": "Chitwan",
+      "latitude": 27.5291,
+      "longitude": 84.3542,
+      "timezone": "Asia/Kathmandu",
+      "officialLanguage": "Nepali",
+      "currency": {
+        "name": "Nepalese Rupee",
+        "code": "NPR"
+      },
+      "landArea": {
+        "value": 2238,
+        "unit": "km²"
+      },
+      "elevation": {
+        "value": 415,
+        "unit": "meters"
+      },
+      "landmarks": [
+        {
+          "name": "Chitwan National Park",
+          "latitude": 27.5193,
+          "longitude": 84.3135
+        },
+        {
+          "name": "Sauraha",
+          "latitude": 27.5848,
+          "longitude": 84.5039
+        },
+        {
+          "name": "Bis Hazari Lake",
+          "latitude": 27.618,
+          "longitude": 84.4376
+        }
+      ]
+    },
+    {
       "name": "Damak",
       "latitude": 26.617,
       "longitude": 87.668,
@@ -124,6 +160,42 @@
           "name": "Narayanhiti Palace Museum",
           "latitude": 27.715,
           "longitude": 85.3183
+        }
+      ]
+    },
+    {
+      "name": "Parbat",
+      "latitude": 28.2246,
+      "longitude": 83.6987,
+      "timezone": "Asia/Kathmandu",
+      "officialLanguage": "Nepali",
+      "currency": {
+        "name": "Nepalese Rupee",
+        "code": "NPR"
+      },
+      "landArea": {
+        "value": 494,
+        "unit": "km²"
+      },
+      "elevation": {
+        "value": 1425,
+        "unit": "meters"
+      },
+      "landmarks": [
+        {
+          "name": "Gandaki Golden Footbridge",
+          "latitude": 28.262,
+          "longitude": 83.6095
+        },
+        {
+          "name": "The Cliff Nepal",
+          "latitude": 28.2229,
+          "longitude": 83.675
+        },
+        {
+          "name": "Kamadhenu Mandir",
+          "latitude": 28.2538,
+          "longitude": 83.6555
         }
       ]
     },
