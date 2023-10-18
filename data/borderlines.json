@@ -136,7 +136,8 @@
       "currency": {
         "name": "Nepalese Rupee",
         "code": "NPR"
-      },      "landArea": {
+      },
+      "landArea": {
         "value": 1164,
         "unit": "km²"
       },
