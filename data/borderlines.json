@@ -128,6 +128,42 @@
       ]
     },
     {
+      "name": "Parbat",
+      "latitude": 28.2246,
+      "longitude": 83.6987,
+      "timezone": "Asia/Kathmandu",
+      "officialLanguage": "Nepali",
+      "currency": {
+        "name": "Nepalese Rupee",
+        "code": "NPR"
+      },
+      "landArea": {
+        "value": 494,
+        "unit": "km²"
+      },
+      "elevation": {
+        "value": 1425,
+        "unit": "meters"
+      },
+      "landmarks": [
+        {
+          "name": "Gandaki Golden Footbridge",
+          "latitude": 28.2620,
+          "longitude": 83.6095 
+        },
+        {
+          "name": "The Cliff Nepal",
+          "latitude": 28.2229,
+          "longitude": 83.6750
+        },
+        {
+          "name": "Kamadhenu Mandir",
+          "latitude": 28.2538,
+          "longitude": 83.6555
+        }
+      ]
+    },
+    {
       "name": "Syangja",
       "latitude": 28.0197,
       "longitude": 83.8049,
