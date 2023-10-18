@@ -138,7 +138,7 @@
         "code": "NPR"
       },
       "landArea": {
-        "value": 1164,
+        "value": 2266,
         "unit": "km²"
       },
       "elevation": {
@@ -148,7 +148,7 @@
       "landmarks": [
         {
           "name": "Kaligandaki A Hydroelectric Power Station",
-          "latitude": 27.9791, 
+          "latitude": 27.9791,
           "longitude": 83.5804
         },
         {
