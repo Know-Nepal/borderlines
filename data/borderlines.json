@@ -138,11 +138,11 @@
         "code": "NPR"
       },
       "landArea": {
-        "value": 2266,
+        "value": 1164,
         "unit": "km²"
       },
       "elevation": {
-        "value": 1012,
+        "value": 2266,
         "unit": "meters"
       },
       "landmarks": [
