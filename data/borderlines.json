@@ -38,6 +38,11 @@
           "name": "Hanuman Central",
           "latitude": 26.642373,
           "longitude": 87.9916113
+        },
+        {
+          "name": "NIM Birtamode Church",
+          "latitude": 26.6362,
+          "longitude": 87.9827
         }
       ]
     },
@@ -79,6 +84,11 @@
           "name": "Himalaya Mahalaxmi Tea Garden",
           "latitude": 26.6539691,
           "longitude": 87.603649
+        },
+        {
+          "name": "Sano Baraghare",
+          "latitude": 26.6084,
+          "longitude": 87.6557
         }
       ]
     },
@@ -166,6 +176,11 @@
           "name": "Alamdevi Temple",
           "latitude": 27.953728,
           "longitude": 83.512351
+        },
+        {
+          "name": "Aarakhurka Shivalaya",
+          "longitude": 28.1797,
+          "latitude": 83.8632
         }
       ]
     },
@@ -197,6 +212,21 @@
           "name": "Everest Fun Park & Resort Pvt. Ltd.",
           "latitude": 26.6431722,
           "longitude": 87.6181256
+        },
+        {
+          "name": "Urlabari Multiple Campus",
+          "longitude": 26.6651,
+          "latitude": 87.6200
+        },
+        {
+          "name": "Buddhasubba Temple",
+          "longitude": 26.82193,
+          "latitude": 87.29652
+        },
+        {
+          "name": "Kosi Barrage",
+          "longitude": 26.5262,
+          "latitude": 86.9270
         }
       ]
     }
