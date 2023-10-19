@@ -128,6 +128,42 @@
       ]
     },
     {
+      "name": "Siddharthanagar",
+      "latitude": 27.5065,
+      "longitude": 83.4377,
+      "timezone": "Asia/Kathmandu",
+      "officialLanguage": "Nepali",
+      "currency": {
+        "name": "Nepalese Rupee",
+        "code": "NPR"
+      },
+      "landArea": {
+        "value": 36.03,
+        "unit": "km²"
+      },
+      "elevation": {
+        "value": 109,
+        "unit": "meters"
+      },
+      "landmarks": [
+        {
+          "name": "Tiger Palace Resort",
+          "latitude": 27.5688,
+          "longitude": 83.4561
+        },
+        {
+          "name": "Gautam Buddha International Airport",
+          "latitude": 27.5060,
+          "longitude": 83.4175
+        },
+        {
+          "name": "Lumbini Gate",
+          "latitude": 27.5064,
+          "longitude": 83.4536
+        }
+      ]
+    },
+    {
       "name": "Syangja",
       "latitude": 28.0197,
       "longitude": 83.8049,
