@@ -20,19 +20,29 @@
       },
       "landmarks": [
         {
-          "name": "Baraha Kshetra",
-          "latitude": 26.83,
-          "longitude": 87.18
-        },
-        {
-          "name": "Koshi Tappu Wildlife Reserve",
-          "latitude": 26.65,
-          "longitude": 87
+          "name": "BhatBhateni Biratnagar",
+          "latitude": 26.4595,
+          "longitude": 87.2779
         },
         {
           "name": "Biratnagar Airport",
           "latitude": 26.483777,
           "longitude": 87.266149
+        },
+        {
+          "name": "Biratnagar Jute Mill",
+          "latitude": 26.4103,
+          "longitude": 87.2650
+        },
+        {
+          "name": "Gopal Fun Park",
+          "latitude": 26.460368,
+          "longitude": 87.307617
+        },
+        {
+          "name": "Ramjanki Mandir Biratnagar Nepal",
+          "latitude": 26.45568,
+          "longitude": 87.28169
         }
       ]
     },
