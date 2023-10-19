@@ -1,6 +1,42 @@
 {
   "cities": [
     {
+      "name": "Biratnagar",
+      "latitude": 26.452,
+      "longitude": 87.271,
+      "timezone": "Asia/Kathmandu",
+      "officialLanguage": "Nepali",
+      "currency": {
+        "name": "Nepalese Rupee",
+        "code": "NPR"
+      },
+      "landArea": {
+        "value": 77,
+        "unit": "km²"
+      },
+      "elevation": {
+        "value": 73.728,
+        "unit": "meters"
+      },
+      "landmarks": [
+        {
+          "name": "Baraha Kshetra",
+          "latitude": 26.83,
+          "longitude": 87.18
+        },
+        {
+          "name": "Koshi Tappu Wildlife Reserve",
+          "latitude": 26.65,
+          "longitude": 87
+        },
+        {
+          "name": "Biratnagar Airport",
+          "latitude": 26.483777,
+          "longitude": 87.266149
+        }
+      ]
+    },
+    {
       "name": "Birtamod",
       "latitude": 26.6293,
       "longitude": 87.9825,
