@@ -1,6 +1,52 @@
 {
   "cities": [
     {
+      "name": "Biratnagar",
+      "latitude": 26.452,
+      "longitude": 87.271,
+      "timezone": "Asia/Kathmandu",
+      "officialLanguage": "Nepali",
+      "currency": {
+        "name": "Nepalese Rupee",
+        "code": "NPR"
+      },
+      "landArea": {
+        "value": 77,
+        "unit": "km²"
+      },
+      "elevation": {
+        "value": 73.728,
+        "unit": "meters"
+      },
+      "landmarks": [
+        {
+          "name": "BhatBhateni Biratnagar",
+          "latitude": 26.4595,
+          "longitude": 87.2779
+        },
+        {
+          "name": "Biratnagar Airport",
+          "latitude": 26.483777,
+          "longitude": 87.266149
+        },
+        {
+          "name": "Biratnagar Jute Mill",
+          "latitude": 26.4103,
+          "longitude": 87.2650
+        },
+        {
+          "name": "Gopal Fun Park",
+          "latitude": 26.460368,
+          "longitude": 87.307617
+        },
+        {
+          "name": "Ramjanki Mandir Biratnagar Nepal",
+          "latitude": 26.45568,
+          "longitude": 87.28169
+        }
+      ]
+    },
+    {
       "name": "Birtamod",
       "latitude": 26.6293,
       "longitude": 87.9825,
