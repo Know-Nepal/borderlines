@@ -82,6 +82,47 @@
       ]
     },
     {
+      "name": "Dharan",
+      "latitude": 26.8065,
+      "longitude": 87.2846,
+      "timezone": "Asia/Kathmandu",
+      "officialLanguage": "Nepali",
+      "currency": {
+        "name": "Nepalese Rupee",
+        "code": "NPR"
+      },
+      "landArea": {
+        "value": 192.3,
+        "unit": "km²"
+      },
+      "elevation": {
+        "value": 349,
+        "unit": "meters"
+      },
+      "landmarks": [
+        {
+          "name": "Budha Subba Temple",
+          "latitude": 26.82,
+          "longitude": 87.3
+        },
+        {
+          "name": "Dharan Clock Tower",
+          "latitude": 26.8117,
+          "longitude": 87.2853
+        },
+        {
+          "name": "Pindeshwor Temple",
+          "latitude": 26.8133,
+          "longitude": 87.2946
+        },
+        {
+          "name": "Namche Bazar",
+          "latitude": 27.8053,
+          "longitude": 86.7106
+        }
+      ]
+    },
+    {
       "name": "Kathmandu",
       "latitude": 27.7172,
       "longitude": 85.324,
@@ -153,7 +194,7 @@
         },
         {
           "name": "Gautam Buddha International Airport",
-          "latitude": 27.5060,
+          "latitude": 27.506,
           "longitude": 83.4175
         },
         {
