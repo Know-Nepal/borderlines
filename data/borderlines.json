@@ -147,6 +147,11 @@
       },
       "landmarks": [
         {
+          "name": "Hotel Pauwa",
+          "latitude": 27.5100,
+          "longitude": 83.4422
+        },
+        {
           "name": "Tiger Palace Resort",
           "latitude": 27.5688,
           "longitude": 83.4561
@@ -155,6 +160,11 @@
           "name": "Gautam Buddha International Airport",
           "latitude": 27.5060,
           "longitude": 83.4175
+        },
+        {
+          "name": "Bhairahawa Buspark",
+          "latitude": 	27.5005,
+          "longitude": 83.4592
         },
         {
           "name": "Lumbini Gate",
