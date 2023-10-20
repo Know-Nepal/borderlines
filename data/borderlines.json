@@ -84,6 +84,11 @@
           "name": "Hanuman Central",
           "latitude": 26.642373,
           "longitude": 87.9916113
+        },
+        {
+          "name": "NIM Birtamode Church",
+          "latitude": 26.6362,
+          "longitude": 87.9827
         }
       ]
     },
@@ -125,6 +130,11 @@
           "name": "Himalaya Mahalaxmi Tea Garden",
           "latitude": 26.6539691,
           "longitude": 87.603649
+        },
+        {
+          "name": "New Amda Hosiptal",
+          "latitude": 26.675565003247996,
+          "longitude": 87.6884020887845
         }
       ]
     },
@@ -212,6 +222,11 @@
           "name": "Alamdevi Temple",
           "latitude": 27.953728,
           "longitude": 83.512351
+        },
+        {
+          "name": "Syangja District Hospital",
+          "longitude": 28.105306785619266,
+          "latitude": 83.87393015924836
         }
       ]
     },
@@ -243,6 +258,21 @@
           "name": "Everest Fun Park & Resort Pvt. Ltd.",
           "latitude": 26.6431722,
           "longitude": 87.6181256
+        },
+        {
+          "name": "Urlabari Multiple Campus",
+          "longitude": 26.6651,
+          "latitude": 87.62
+        },
+        {
+          "name": "Madan Bhandari Hospital & Trauma Center",
+          "longitude": 26.6659477595102,
+          "latitude": 87.60336464529681
+        },
+        {
+          "name": "Urlabari Chowk",
+          "longitude": 26.6654519244919,
+          "latitude": 87.63793817236878
         }
       ]
     }
