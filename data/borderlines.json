@@ -178,9 +178,9 @@
           "longitude": 83.512351
         },
         {
-          "name": "Aarakhurka Shivalaya",
-          "longitude": 28.1797,
-          "latitude": 83.8632
+          "name": "Syangja District Hospital",
+          "longitude": 28.105306785619266,
+          "latitude": 83.87393015924836
         }
       ]
     },
@@ -216,17 +216,17 @@
         {
           "name": "Urlabari Multiple Campus",
           "longitude": 26.6651,
-          "latitude": 87.6200
+          "latitude": 87.62
         },
         {
-          "name": "Buddhasubba Temple",
-          "longitude": 26.82193,
-          "latitude": 87.29652
+          "name": "Bhandari Krishi Farm",
+          "longitude": 26.681340218119235,
+          "latitude": 87.60245364698463
         },
         {
-          "name": "Kosi Barrage",
-          "longitude": 26.5262,
-          "latitude": 86.9270
+          "name": "Urlabari Chowk",
+          "longitude": 26.6654519244919,
+          "latitude": 87.63793817236878
         }
       ]
     }
