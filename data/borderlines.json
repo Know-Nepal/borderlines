@@ -185,6 +185,47 @@
       ]
     },
     {
+      "name":"Lalitpur",
+      "latitude": 27.6588,
+      "longitude":85.3247,
+      "timezone":"Asia/Kathmandu",
+      "officialLanguage": "Nepali",
+      "currency": {
+        "name": "Nepalese Rupee",
+        "code": "NPR"
+      },
+      "landArea": {
+        "value": 37.4,
+        "unit": "km²"
+      },
+      "elevation": {
+        "value": 1350,
+        "unit": "meters"
+      },
+      "landmarks":[
+        {
+          "name":"Patan Durbar Square",
+          "longitude":27.6727,
+          "latitude":85.3253
+        },
+        {
+          "name":"Central Zoo",
+          "longitude":27.6727,
+          "latitude":85.3118
+        },
+        {
+          "name":"Rudra Varna Mahavihar",
+          "longitude":27.6681,
+          "latitude":85.3271
+        }
+        {
+          "name":"Labim Mall",
+          "longitude":27.6771,
+          "latitude":85.3171
+        }
+      ]
+  }
+    {
       "name": "Siddharthanagar",
       "latitude": 27.5065,
       "longitude": 83.4377,
