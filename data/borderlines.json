@@ -217,14 +217,24 @@
           "name":"Rudra Varna Mahavihar",
           "longitude":27.6681,
           "latitude":85.3271
-        }
+        },
         {
           "name":"Labim Mall",
           "longitude":27.6771,
           "latitude":85.3171
+        },
+        {
+          "name":"Hiranya Varna Mahavihar",
+          "longitude":27.6752,
+          "latitude":85.3245
+        },
+        {
+          "name":"Mahabuddha temple",
+          "longitude":27.6689,
+          "latitude":85.3273
         }
       ]
-  }
+  },
     {
       "name": "Siddharthanagar",
       "latitude": 27.5065,
