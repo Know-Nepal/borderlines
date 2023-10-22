@@ -139,6 +139,52 @@
       ]
     },
     {
+      "name": "Hetauda",
+      "latitude": 27.4368,
+      "longitude": 85.0026,
+      "timezone": "Asia/Kathmandu",
+      "officialLanguage": "Nepali",
+      "currency": {
+        "name": "Nepalese Rupee",
+        "code": "NPR"
+      },
+      "landArea": {
+        "value": 261.6,
+        "unit": "km²"
+      },
+      "elevation": {
+        "value": 345,
+        "unit": "meters"
+      },
+      "landmarks": [
+        {
+          "name": "Bhutandevi Temple",
+          "latitude": 27.42450543406979,
+          "longitude": 85.02325572983939
+        },
+        {
+          "name": "Narayani Mall",
+          "latitude": 27.427136885640714,
+          "longitude": 85.03170570341877
+        },
+        {
+          "name": "Pashupati Temple",
+          "latitude": 27.419794718361427,
+          "longitude": 85.03397451766915
+        },
+        {
+          "name": "Puspalal Smriti Peace Park",
+          "latitude": 27.42823516741742,
+          "longitude": 85.0387274237418
+        },
+        {
+          "name": "Shahid Smarak",
+          "latitude": 27.44627689537009,
+          "longitude": 85.00030762298556
+        }
+      ]
+    },
+    {
       "name": "Kathmandu",
       "latitude": 27.7172,
       "longitude": 85.324,
