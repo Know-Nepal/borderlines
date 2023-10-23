@@ -158,12 +158,27 @@
       },
       "landmarks": [
         {
+          "name": "Banaskhandi Temple",
+          "latitude": 27.437190963806927,
+          "longitude": 85.04205448270629
+        },
+        {
+          "name": "BhatBhateni Super Market",
+          "latitude": 27.439900177184892,
+          "longitude": 85.03498526717914
+        },  
+        {
           "name": "Bhutandevi Temple",
           "latitude": 27.42450543406979,
           "longitude": 85.02325572983939
         },
         {
-          "name": "Narayani Mall",
+          "name": "Manakamana Temple",
+          "latitude": 27.433405350575548,
+          "longitude": 85.05587456847738
+        },
+        {
+          "name": "NS Cinemas, Narayani Mall",
           "latitude": 27.427136885640714,
           "longitude": 85.03170570341877
         },
@@ -171,6 +186,11 @@
           "name": "Pashupati Temple",
           "latitude": 27.419794718361427,
           "longitude": 85.03397451766915
+        },
+        {
+          "name": "Pathivara Devi Temple",
+          "latitude": 27.438696804080667,
+          "longitude": 85.01841066174444
         },
         {
           "name": "Puspalal Smriti Peace Park",
@@ -181,6 +201,11 @@
           "name": "Shahid Smarak",
           "latitude": 27.44627689537009,
           "longitude": 85.00030762298556
+        },
+        {
+          "name": "Triveni Dham",
+          "latitude": 27.422242836584616,
+          "longitude": 85.01184103300047
         }
       ]
     },
