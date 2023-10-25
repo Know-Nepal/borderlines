@@ -32,7 +32,7 @@
         {
           "name": "Biratnagar Jute Mill",
           "latitude": 26.4103,
-          "longitude": 87.2650
+          "longitude": 87.265
         },
         {
           "name": "Gopal Fun Park",
@@ -166,7 +166,7 @@
           "name": "BhatBhateni Super Market",
           "latitude": 27.439900177184892,
           "longitude": 85.03498526717914
-        },  
+        },
         {
           "name": "Bhutandevi Temple",
           "latitude": 27.42450543406979,
@@ -256,10 +256,10 @@
       ]
     },
     {
-      "name":"Lalitpur",
+      "name": "Lalitpur",
       "latitude": 27.6588,
-      "longitude":85.3247,
-      "timezone":"Asia/Kathmandu",
+      "longitude": 85.3247,
+      "timezone": "Asia/Kathmandu",
       "officialLanguage": "Nepali",
       "currency": {
         "name": "Nepalese Rupee",
@@ -273,39 +273,39 @@
         "value": 1350,
         "unit": "meters"
       },
-      "landmarks":[
+      "landmarks": [
         {
-          "name":"Patan Durbar Square",
-          "longitude":27.6727,
-          "latitude":85.3253
+          "name": "Patan Durbar Square",
+          "longitude": 27.6727,
+          "latitude": 85.3253
         },
         {
-          "name":"Central Zoo",
-          "longitude":27.6727,
-          "latitude":85.3118
+          "name": "Central Zoo",
+          "longitude": 27.6727,
+          "latitude": 85.3118
         },
         {
-          "name":"Rudra Varna Mahavihar",
-          "longitude":27.6681,
-          "latitude":85.3271
+          "name": "Rudra Varna Mahavihar",
+          "longitude": 27.6681,
+          "latitude": 85.3271
         },
         {
-          "name":"Labim Mall",
-          "longitude":27.6771,
-          "latitude":85.3171
+          "name": "Labim Mall",
+          "longitude": 27.6771,
+          "latitude": 85.3171
         },
         {
-          "name":"Hiranya Varna Mahavihar",
-          "longitude":27.6752,
-          "latitude":85.3245
+          "name": "Hiranya Varna Mahavihar",
+          "longitude": 27.6752,
+          "latitude": 85.3245
         },
         {
-          "name":"Mahabuddha temple",
-          "longitude":27.6689,
-          "latitude":85.3273
+          "name": "Mahabuddha temple",
+          "longitude": 27.6689,
+          "latitude": 85.3273
         }
       ]
-  },
+    },
     {
       "name": "Siddharthanagar",
       "latitude": 27.5065,
@@ -327,7 +327,7 @@
       "landmarks": [
         {
           "name": "Hotel Pauwa",
-          "latitude": 27.5100,
+          "latitude": 27.51,
           "longitude": 83.4422
         },
         {
@@ -337,12 +337,12 @@
         },
         {
           "name": "Gautam Buddha International Airport",
-          "latitude": 27.5060,
+          "latitude": 27.506,
           "longitude": 83.4175
         },
         {
           "name": "Bhairahawa Buspark",
-          "latitude": 	27.5005,
+          "latitude": 27.5005,
           "longitude": 83.4592
         },
         {
