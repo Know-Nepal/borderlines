@@ -1,52 +1,6 @@
 {
   "cities": [
     {
-      "name": "Nepalgunj",
-      "latitude": 28.05,
-      "longitude": 81.61667,
-      "timezone": "Asia/Kathmandu",
-      "officialLanguage": "Nepali",
-      "currency": {
-        "name": "Nepalese Rupee",
-        "code": "NPR"
-      },
-      "landArea": {
-        "value": 85.94,
-        "unit": "km²"
-      },
-      "elevation": {
-        "value": 150,
-        "unit": "meters"
-      },
-      "landmarks": [
-        {
-          "name": "BhatBhateni Nepalgunj",
-          "latitude": 28.0888,
-          "longitude": 81.6483
-        },
-        {
-          "name": "Nepalgunj Airport",
-          "latitude": 28.1011,
-          "longitude": 81.6673
-        },
-        {
-          "name": "Happy World Nepalgunj",
-          "latitude": 28.1506,
-          "longitude": 81.6649
-        },
-        {
-          "name": "Bageswari Temple",
-          "latitude": 28.069591825,
-          "longitude": 81.6250392738
-        },
-        {
-          "name": "Mahendra Park",
-          "latitude": 28.0554,
-          "longitude": 81.6233
-        }
-      ]
-    },
-    {
       "name": "Biratnagar",
       "latitude": 26.452,
       "longitude": 87.271,
@@ -351,6 +305,52 @@
           "latitude":85.3273
         }
       ]
+  },
+  {
+    "name": "Nepalgunj",
+    "latitude": 28.05,
+    "longitude": 81.61667,
+    "timezone": "Asia/Kathmandu",
+    "officialLanguage": "Nepali",
+    "currency": {
+      "name": "Nepalese Rupee",
+      "code": "NPR"
+    },
+    "landArea": {
+      "value": 85.94,
+      "unit": "km²"
+    },
+    "elevation": {
+      "value": 150,
+      "unit": "meters"
+    },
+    "landmarks": [
+      {
+        "name": "BhatBhateni Nepalgunj",
+        "latitude": 28.0888,
+        "longitude": 81.6483
+      },
+      {
+        "name": "Nepalgunj Airport",
+        "latitude": 28.1011,
+        "longitude": 81.6673
+      },
+      {
+        "name": "Happy World Nepalgunj",
+        "latitude": 28.1506,
+        "longitude": 81.6649
+      },
+      {
+        "name": "Bageswari Temple",
+        "latitude": 28.069591825,
+        "longitude": 81.6250392738
+      },
+      {
+        "name": "Mahendra Park",
+        "latitude": 28.0554,
+        "longitude": 81.6233
+      }
+    ]
   },
     {
       "name": "Siddharthanagar",
