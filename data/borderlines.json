@@ -353,6 +353,57 @@
       ]
     },
     {
+      "name": "Pokhara",
+      "latitude": 28.2096,
+      "longitude": 83.9856,
+      "timezone": "Asia/Kathmandu",
+      "officialLanguage": "Nepali",
+      "currency": {
+        "name": "Nepalese Rupee",
+        "code": "NPR"
+      },
+      "landArea": {
+        "value": 464.24,
+        "unit": "km²"
+      },
+      "elevation": {
+        "value": 822,
+        "unit": "meters"
+      },
+      "landmarks": [
+        {
+          "name": "Buddhist Monastery",
+          "latitude": 28.25748,
+          "longitude": 83.96103
+        },
+        {
+          "name": "Begnas Lake",
+          "latitude": 28.1739,
+          "longitude": 84.0973
+        },
+        {
+          "name": "Fewa Lake",
+          "latitude": 28.2154,
+          "longitude": 83.9453
+        },
+        {
+          "name": "Mahendra Cave",
+          "latitude": 28.2717,
+          "longitude": 83.9795
+        },
+        {
+          "name": "Seti George",
+          "latitude": 28.2454,
+          "longitude": 83.9893
+        },
+        {
+          "name": "World peace Pagoda",
+          "latitude": 28.2009901,
+          "longitude": 83.9447793
+        }
+      ]
+    },
+    {
       "name": "Siddharthanagar",
       "latitude": 27.5065,
       "longitude": 83.4377,
